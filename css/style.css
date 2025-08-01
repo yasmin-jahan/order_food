@@ -593,7 +593,14 @@ footer{
 margin-bottom: 0;
 }
 .copywright_content p span{
-    color: #ff3838;
+   
+}
+.copywright_content p span a{
+     color: #ff3838;
+    text-decoration: none;
+}
+.copywright_content p span a:hover{
+    color: rgb(175, 240, 245);
 }
 /* footer-section-ends */
 
